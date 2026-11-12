@@ -3,7 +3,7 @@
 # Hi, I'm Tejas 👋
 
 <a href="https://tejasjagdale.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-Stack+Engineer+%26+AI+Developer;Building+cloud-native+platforms;Shipping+production+ML;Based+in+Dresden%2C+Germany" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=AI+Engineer+%26+Full-Stack+Developer;Building+production-ready+AI+apps;Turning+data+into+products;Based+in+Dresden%2C+Germany" alt="Typing intro" />
 </a>
 
 <p>
@@ -58,19 +58,6 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/tejas-52/FixMyRide">🚗 FixMyRide</a></h3>
-      Roadside-assistance app connecting drivers and mechanics, with Firebase and an Android build.<br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/tejas-52/orbitnet-mesh">🛰️ OrbitNet Mesh</a></h3>
-      Satellite-assisted communication and data-relay system for space transportation.<br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/tejas-52/ai-health-atlas">🩺 AI Health Atlas</a></h3>
       Municipal health-planning dashboard with Streamlit and R Shiny front ends.<br/><br/>
       <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
@@ -81,6 +68,19 @@
       My ML-engineering practice repo, with experiments tracked in Weights &amp; Biases.<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/W%26B-FFBE00?logo=weightsandbiases&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/tejas-52/FixMyRide">🚗 FixMyRide</a></h3>
+      Roadside-assistance app connecting drivers and mechanics, with Firebase and an Android build.<br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/tejas-52/orbitnet-mesh">🛰️ OrbitNet Mesh</a></h3>
+      Satellite-assisted communication and data-relay system for space transportation.<br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
     </td>
   </tr>
 </table>
