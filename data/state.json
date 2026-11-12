@@ -1,18 +1,50 @@
 {
   "ttt": {
-    "board": ["", "", "", "", "", "", "", "", ""],
-    "score": { "humans": 0, "bot": 0, "draws": 0 },
-    "recent": [],
+    "board": [
+      "",
+      "",
+      "",
+      "",
+      "X",
+      "O",
+      "",
+      "",
+      ""
+    ],
+    "score": {
+      "humans": 0,
+      "bot": 0,
+      "draws": 0
+    },
+    "recent": [
+      {
+        "user": "tejas-52",
+        "cell": "B2",
+        "bot": "C2"
+      }
+    ],
     "lastResult": ""
   },
   "guestbook": [],
   "poll": {
     "question": "What should I build next?",
     "options": [
-      { "id": "travel", "label": "🗺️ AI trip planner for budget travel" },
-      { "id": "tutor", "label": "🗣️ Voice AI language tutor" },
-      { "id": "drone", "label": "🚁 Crop-health app using drone photos" },
-      { "id": "docs", "label": "📄 Open-source rental-documents checker" }
+      {
+        "id": "travel",
+        "label": "🗺️ AI trip planner for budget travel"
+      },
+      {
+        "id": "tutor",
+        "label": "🗣️ Voice AI language tutor"
+      },
+      {
+        "id": "drone",
+        "label": "🚁 Crop-health app using drone photos"
+      },
+      {
+        "id": "docs",
+        "label": "📄 Open-source rental-documents checker"
+      }
     ],
     "votes": {}
   }

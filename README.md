@@ -95,7 +95,7 @@
 | | A | B | C |
 |:-:|:-:|:-:|:-:|
 | **1** | [⬜](https://github.com/tejas-52/tejas-52/issues/new?title=ttt%7Cmove%7CA1&body=Just%20click%20**Create**%20to%20play%20this%20move.%20You%20don't%20need%20to%20write%20anything.%0A%0AThe%20bot%20replies%20within%20about%20a%20minute.) | [⬜](https://github.com/tejas-52/tejas-52/issues/new?title=ttt%7Cmove%7CB1&body=Just%20click%20**Create**%20to%20play%20this%20move.%20You%20don't%20need%20to%20write%20anything.%0A%0AThe%20bot%20replies%20within%20about%20a%20minute.) | [⬜](https://github.com/tejas-52/tejas-52/issues/new?title=ttt%7Cmove%7CC1&body=Just%20click%20**Create**%20to%20play%20this%20move.%20You%20don't%20need%20to%20write%20anything.%0A%0AThe%20bot%20replies%20within%20about%20a%20minute.) |
-| **2** | [⬜](https://github.com/tejas-52/tejas-52/issues/new?title=ttt%7Cmove%7CA2&body=Just%20click%20**Create**%20to%20play%20this%20move.%20You%20don't%20need%20to%20write%20anything.%0A%0AThe%20bot%20replies%20within%20about%20a%20minute.) | [⬜](https://github.com/tejas-52/tejas-52/issues/new?title=ttt%7Cmove%7CB2&body=Just%20click%20**Create**%20to%20play%20this%20move.%20You%20don't%20need%20to%20write%20anything.%0A%0AThe%20bot%20replies%20within%20about%20a%20minute.) | [⬜](https://github.com/tejas-52/tejas-52/issues/new?title=ttt%7Cmove%7CC2&body=Just%20click%20**Create**%20to%20play%20this%20move.%20You%20don't%20need%20to%20write%20anything.%0A%0AThe%20bot%20replies%20within%20about%20a%20minute.) |
+| **2** | [⬜](https://github.com/tejas-52/tejas-52/issues/new?title=ttt%7Cmove%7CA2&body=Just%20click%20**Create**%20to%20play%20this%20move.%20You%20don't%20need%20to%20write%20anything.%0A%0AThe%20bot%20replies%20within%20about%20a%20minute.) | ❌ | ⭕ |
 | **3** | [⬜](https://github.com/tejas-52/tejas-52/issues/new?title=ttt%7Cmove%7CA3&body=Just%20click%20**Create**%20to%20play%20this%20move.%20You%20don't%20need%20to%20write%20anything.%0A%0AThe%20bot%20replies%20within%20about%20a%20minute.) | [⬜](https://github.com/tejas-52/tejas-52/issues/new?title=ttt%7Cmove%7CB3&body=Just%20click%20**Create**%20to%20play%20this%20move.%20You%20don't%20need%20to%20write%20anything.%0A%0AThe%20bot%20replies%20within%20about%20a%20minute.) | [⬜](https://github.com/tejas-52/tejas-52/issues/new?title=ttt%7Cmove%7CC3&body=Just%20click%20**Create**%20to%20play%20this%20move.%20You%20don't%20need%20to%20write%20anything.%0A%0AThe%20bot%20replies%20within%20about%20a%20minute.) |
 
 You're ❌. **Click any ⬜ to play**, and the bot (⭕) answers within about a minute.
@@ -103,7 +103,7 @@ You're ❌. **Click any ⬜ to play**, and the bot (⭕) answers within about a 
 **Score:** Visitors 0 · Bot 0 · Draws 0
 
 
-<sub>Recent moves: No moves yet. Be the first!</sub>
+<sub>Recent moves: @tejas-52 → B2 (bot → C2)</sub>
 
 </div>
 <!-- TTT:END -->
