@@ -2,12 +2,12 @@
 
 # Hi, I'm Tejas 👋
 
-<a href="https://tejasjagdale.vercel.app">
+<a href="https://tejasjagdale.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-Stack+Engineer+%26+AI+Developer;Building+cloud-native+platforms;Shipping+production+ML;Based+in+Dresden%2C+Germany" alt="Typing intro" />
 </a>
 
 <p>
-  <a href="https://tejasjagdale.vercel.app"><img src="https://img.shields.io/badge/Portfolio-tejasjagdale.vercel.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://tejasjagdale.com"><img src="https://img.shields.io/badge/Portfolio-tejasjagdale.com-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <img src="https://img.shields.io/badge/Location-Dresden%2C%20Germany-2EA043?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Dresden, Germany" />
 </p>
 
