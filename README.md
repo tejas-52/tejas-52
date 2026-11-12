@@ -26,6 +26,20 @@
 
 ---
 
+## ⚡ Recent activity
+
+<!-- ACTIVITY:START -->
+- 🚀 Pushed new commits to [farm-genius-voice](https://github.com/tejas-52/farm-genius-voice) <sub>2026-11-01</sub>
+- 🚀 Pushed new commits to [rentready-ai](https://github.com/tejas-52/rentready-ai) <sub>2026-11-01</sub>
+- 🚀 Pushed new commits to [copilot-rent-app](https://github.com/tejas-52/copilot-rent-app) <sub>2026-11-01</sub>
+- 🚀 Pushed new commits to [FixMyRide](https://github.com/tejas-52/FixMyRide) <sub>2026-11-01</sub>
+- 🚀 Pushed new commits to [Oasis-Data-Science-Internship](https://github.com/tejas-52/Oasis-Data-Science-Internship) <sub>2026-11-01</sub>
+
+<sub>Updated automatically every day · last refresh 2026-11-12</sub>
+<!-- ACTIVITY:END -->
+
+---
+
 ## 🔥 Featured projects
 
 <table>
@@ -70,6 +84,58 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 🎮 Play tic-tac-toe with me
+
+<!-- TTT:START -->
+<div align="center">
+
+| | A | B | C |
+|:-:|:-:|:-:|:-:|
+| **1** | [⬜](https://github.com/tejas-52/tejas-52/issues/new?title=ttt%7Cmove%7CA1&body=Just%20click%20**Create**%20to%20play%20this%20move.%20You%20don't%20need%20to%20write%20anything.%0A%0AThe%20bot%20replies%20within%20about%20a%20minute.) | [⬜](https://github.com/tejas-52/tejas-52/issues/new?title=ttt%7Cmove%7CB1&body=Just%20click%20**Create**%20to%20play%20this%20move.%20You%20don't%20need%20to%20write%20anything.%0A%0AThe%20bot%20replies%20within%20about%20a%20minute.) | [⬜](https://github.com/tejas-52/tejas-52/issues/new?title=ttt%7Cmove%7CC1&body=Just%20click%20**Create**%20to%20play%20this%20move.%20You%20don't%20need%20to%20write%20anything.%0A%0AThe%20bot%20replies%20within%20about%20a%20minute.) |
+| **2** | [⬜](https://github.com/tejas-52/tejas-52/issues/new?title=ttt%7Cmove%7CA2&body=Just%20click%20**Create**%20to%20play%20this%20move.%20You%20don't%20need%20to%20write%20anything.%0A%0AThe%20bot%20replies%20within%20about%20a%20minute.) | [⬜](https://github.com/tejas-52/tejas-52/issues/new?title=ttt%7Cmove%7CB2&body=Just%20click%20**Create**%20to%20play%20this%20move.%20You%20don't%20need%20to%20write%20anything.%0A%0AThe%20bot%20replies%20within%20about%20a%20minute.) | [⬜](https://github.com/tejas-52/tejas-52/issues/new?title=ttt%7Cmove%7CC2&body=Just%20click%20**Create**%20to%20play%20this%20move.%20You%20don't%20need%20to%20write%20anything.%0A%0AThe%20bot%20replies%20within%20about%20a%20minute.) |
+| **3** | [⬜](https://github.com/tejas-52/tejas-52/issues/new?title=ttt%7Cmove%7CA3&body=Just%20click%20**Create**%20to%20play%20this%20move.%20You%20don't%20need%20to%20write%20anything.%0A%0AThe%20bot%20replies%20within%20about%20a%20minute.) | [⬜](https://github.com/tejas-52/tejas-52/issues/new?title=ttt%7Cmove%7CB3&body=Just%20click%20**Create**%20to%20play%20this%20move.%20You%20don't%20need%20to%20write%20anything.%0A%0AThe%20bot%20replies%20within%20about%20a%20minute.) | [⬜](https://github.com/tejas-52/tejas-52/issues/new?title=ttt%7Cmove%7CC3&body=Just%20click%20**Create**%20to%20play%20this%20move.%20You%20don't%20need%20to%20write%20anything.%0A%0AThe%20bot%20replies%20within%20about%20a%20minute.) |
+
+You're ❌. **Click any ⬜ to play**, and the bot (⭕) answers within about a minute.
+
+**Score:** Visitors 0 · Bot 0 · Draws 0
+
+
+<sub>Recent moves: No moves yet. Be the first!</sub>
+
+</div>
+<!-- TTT:END -->
+
+---
+
+## 🗳️ Help me choose
+
+<!-- POLL:START -->
+**What should I build next?**
+
+| Idea | Votes | |
+|:--|:--|:-:|
+| 🗺️ AI trip planner for budget travel | `░░░░░░░░░░░░` 0 | [Vote](https://github.com/tejas-52/tejas-52/issues/new?title=vote%7Ctravel&body=Just%20click%20**Create**%20to%20vote%20for%3A%20%F0%9F%97%BA%EF%B8%8F%20AI%20trip%20planner%20for%20budget%20travel) |
+| 🗣️ Voice AI language tutor | `░░░░░░░░░░░░` 0 | [Vote](https://github.com/tejas-52/tejas-52/issues/new?title=vote%7Ctutor&body=Just%20click%20**Create**%20to%20vote%20for%3A%20%F0%9F%97%A3%EF%B8%8F%20Voice%20AI%20language%20tutor) |
+| 🚁 Crop-health app using drone photos | `░░░░░░░░░░░░` 0 | [Vote](https://github.com/tejas-52/tejas-52/issues/new?title=vote%7Cdrone&body=Just%20click%20**Create**%20to%20vote%20for%3A%20%F0%9F%9A%81%20Crop-health%20app%20using%20drone%20photos) |
+| 📄 Open-source rental-documents checker | `░░░░░░░░░░░░` 0 | [Vote](https://github.com/tejas-52/tejas-52/issues/new?title=vote%7Cdocs&body=Just%20click%20**Create**%20to%20vote%20for%3A%20%F0%9F%93%84%20Open-source%20rental-documents%20checker) |
+
+<sub>0 votes so far · one vote per person, and voting again changes your vote</sub>
+<!-- POLL:END -->
+
+---
+
+## ✍️ Guestbook
+
+<!-- GUESTBOOK:START -->
+<p align="center"><a href="https://github.com/tejas-52/tejas-52/issues/new?title=guestbook%7Csign&body=%3C!--%20Write%20your%20message%20below%20(up%20to%20100%20characters%2C%20plain%20text).%20Then%20click%20Create.%20--%3E%0A%0A"><img src="https://img.shields.io/badge/✍️_Sign_the_guestbook-2EA043?style=for-the-badge" alt="Sign the guestbook" /></a></p>
+
+- No messages yet. Be the first to sign!
+<!-- GUESTBOOK:END -->
+
+<sub>Everything in this section updates through GitHub issues: clicking a link opens a ready-made issue, and a GitHub Action updates this page within about a minute.</sub>
 
 ---
 

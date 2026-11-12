@@ -1,0 +1,46 @@
+name: Interactive profile
+
+on:
+  issues:
+    types: [opened]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+# One run at a time. Each run processes every open interactive issue,
+# so a run that GitHub drops from the queue loses nothing.
+concurrency:
+  group: profile-readme
+  cancel-in-progress: false
+
+jobs:
+  play:
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      startsWith(github.event.issue.title, 'ttt|') ||
+      startsWith(github.event.issue.title, 'guestbook|') ||
+      startsWith(github.event.issue.title, 'vote|')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Apply moves, signatures and votes
+        run: node scripts/interactive.mjs issues
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md data/state.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Update interactive profile"
+          for i in 1 2 3; do git pull --rebase && git push && exit 0; sleep 5; done
+          exit 1
+      - name: Reply to and close the issues
+        run: node scripts/interactive.mjs reply

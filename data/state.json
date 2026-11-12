@@ -1,0 +1,19 @@
+{
+  "ttt": {
+    "board": ["", "", "", "", "", "", "", "", ""],
+    "score": { "humans": 0, "bot": 0, "draws": 0 },
+    "recent": [],
+    "lastResult": ""
+  },
+  "guestbook": [],
+  "poll": {
+    "question": "What should I build next?",
+    "options": [
+      { "id": "travel", "label": "🗺️ AI trip planner for budget travel" },
+      { "id": "tutor", "label": "🗣️ Voice AI language tutor" },
+      { "id": "drone", "label": "🚁 Crop-health app using drone photos" },
+      { "id": "docs", "label": "📄 Open-source rental-documents checker" }
+    ],
+    "votes": {}
+  }
+}
